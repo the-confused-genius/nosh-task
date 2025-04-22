@@ -11,7 +11,8 @@ In main Loop we just Toggle LED according to the global "led_delay_ms" variable,
 After the CPU toggles the LED ON or OFF, it goes into sleep mode relying on the API present in the SDK "HAL_PWR_EnterSLEEPMode"
 This would potentailly save a lot of power 
 
-![image](https://github.com/user-attachments/assets/1fbb891c-dacb-4cfa-8ec0-023ce3ec190c)  
+![image](https://github.com/user-attachments/assets/39fe0ace-54ec-4b69-964e-2fc8f168642e)  
+  
 CubeMX pin config 
 
 PC13 used by External button with external pull up
